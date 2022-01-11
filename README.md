@@ -10,9 +10,9 @@ Some web front end projects
     结构与样式相分离，模块化开发。
 ### 1.3搭建工作
    **创建文件夹**：
-    目录文件夹shopping
-    样式类图片文件夹images
-    样式文件夹css
+   目录文件夹shopping
+   样式类图片文件夹images
+   样式文件夹css
     产品类图片文件夹upload
     字体类文件夹fonts
     脚本文件夹js
