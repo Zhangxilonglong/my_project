@@ -22,24 +22,5 @@ Some web front end projects
     初始化样式文件base.css
     CSS公共样式文件common.css
 ### 1.4样式的模块化开发
-    有序列表
-    1.
-    2.
-    3.
-    无序列表
-
-
-    - 
-    -
-    -
-    链接
-    [link](http://www.baidu.com)
-    图片
-    [img name](url)
-    表格
-    |col1|col2|col3|
-    |---|---|---|
-    |1|2|3|
-    |4|5|6|
 
     
