@@ -2,7 +2,7 @@
 Some web front end projects
 
 ## 1、品优购电商网站页面
-### 1.1项目描述：电商网站 完后PC端首页、商品列表页、注册页面的制作
+### 1.1项目描述：电商网站 完成PC端首页、商品列表页、注册页面的制作
 ***
 ### 1.2开发工具以及技术栈：
     Vscode、PS切图、主流浏览器（Chrome）；
@@ -22,5 +22,6 @@ Some web front end projects
     初始化样式文件base.css
     CSS公共样式文件common.css
 ### 1.4样式的模块化开发
+#### 网站效果图如下：
 
     
