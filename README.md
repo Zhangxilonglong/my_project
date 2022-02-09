@@ -1,7 +1,7 @@
 ### my_project
 Some web front end projects
 ## vue-demo—程序员头条
-### 移动端程序员头条，练习使用vue的小demo，包含vue-router，使用EsLint约束代码格式，Vant组件库使用；基本功能包括展示文章、下拉刷新、上拉加载更多、‘我的’账户信息等
+#### 移动端程序员头条，练习使用vue的小demo，包含vue-router，使用EsLint约束代码格式，Vant组件库使用；基本功能包括展示文章、下拉刷新、上拉加载更多、‘我的’账户信息等
 ### Vant使用手册 https://vant-contrib.gitee.io/vant/#/zh-CN
 ### 1 创建移动端头条vue项目
 #### 1.1 创建vue项目
@@ -96,7 +96,7 @@ Some web front end projects
 		cmtCount: {...},
 		time: {...}
 	}
-	-----------------------------------------------------------------------------------------------
+	--------------------------------------------------------------
 	<!-- 循环渲染ArticleInfo组件 使用时传入文章的各项信息 -->
 	<ArticleInfo  v-for="item  in  articlelist"
 		:key="item.id"
@@ -144,3 +144,4 @@ Some web front end projects
 	   上拉加载数据要将新数据数组拼接在旧数据数组的后面；
 	   下拉刷新数据要将新数据数组拼接在旧数据数组的前面。
 ### 至此，移动端程序员头条的基本功能以实现，后续学习中会继续完善，添加点击文章，用户登录等功能。
+![移动端程序员头条最终效果](https://github.com/Zhangxilonglong/my_project/raw/vue-demo-移动端程序员头条/images/toutiao1.png)
