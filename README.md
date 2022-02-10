@@ -23,5 +23,8 @@ Some web front end projects
     CSS公共样式文件common.css
 ### 1.4样式的模块化开发
 #### 网站效果图如下：
+![品优购](https://github.com/Zhangxilonglong/my_project/raw/品优购电商网站/images/pyg1.gif)
+![品优购](https://github.com/Zhangxilonglong/my_project/raw/品优购电商网站/images/pyg2.gif)
+![品优购](https://github.com/Zhangxilonglong/my_project/raw/品优购电商网站/images/pyg3.gif)
 
     
